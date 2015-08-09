@@ -1,0 +1,8 @@
+Acentos:
+<meta charset="utf-8">
+
+Icone:
+<link rel="icon" href="arquivo.png">
+
+Usar ultima versao do HTML:
+<!DOCTYPE html>
