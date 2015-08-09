@@ -6,3 +6,6 @@ Icone:
 
 Usar ultima versao do HTML:
 <!DOCTYPE html>
+
+Itálico:<em></em>
+Negrito:<strong></strong>
