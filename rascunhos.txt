@@ -20,3 +20,25 @@ Ex: <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+San
 Tamanho da Fonte
 20px (fixo)
 20%  (referencial)
+
+Links:
+<a href="site"></a>
+
+Imagem:
+<img src="imagem" alt="descricao">
+
+Listas:
+<ul>
+    <li></li>
+</ul>
+
+Semantica:
+<main><nav><footer><aside><article>
+
+Citaçao:
+<blockquote>
+    <cite>Autor</cite>
+</blockquote>
+
+Tempo (semantico):
+<time datetime="20XX-XX-XX">texto</time>
