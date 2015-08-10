@@ -9,3 +9,6 @@ Usar ultima versao do HTML:
 
 Itálico:<em></em>
 Negrito:<strong></strong>
+
+Pagina CSS:
+<link rel="stylesheet" href="arquivo.css">
