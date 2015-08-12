@@ -42,3 +42,12 @@ Citaçao:
 
 Tempo (semantico):
 <time datetime="20XX-XX-XX">texto</time>
+
+Border(CSS): Possui varios atributos
+border: 10px solid #000000;
+
+MArgem para centralizar:
+margin: 0 auto
+
+Linha:
+line-height: 20px (absoluto) 1.5 (relativo)
