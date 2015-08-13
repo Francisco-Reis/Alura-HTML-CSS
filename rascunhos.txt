@@ -51,3 +51,7 @@ margin: 0 auto
 
 Linha:
 line-height: 20px (absoluto) 1.5 (relativo)
+
+CSS Reset:
+Pra tirar os estilos padrões dos navegadores
+Mais famoso feito por Eric Meyer
