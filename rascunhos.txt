@@ -52,6 +52,7 @@ margin: 0 auto
 Linha:
 line-height: 20px (absoluto) 1.5 (relativo)
 
-CSS Reset:
+Resetar CSS:
 Pra tirar os estilos padrões dos navegadores
-Mais famoso feito por Eric Meyer
+Reset: feito por Eric Meyer -> reset.css
+Normalize: feito por Nicolas Gallagher e Jonathan Neal -> normalize.css
