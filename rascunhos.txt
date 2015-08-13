@@ -56,3 +56,8 @@ Resetar CSS:
 Pra tirar os estilos padrões dos navegadores
 Reset: feito por Eric Meyer -> reset.css
 Normalize: feito por Nicolas Gallagher e Jonathan Neal -> normalize.css
+
+Display:
+block: empilha
+inline: alinha com o tamanho da fonte
+inline-block: alinha com tamanho de bloco
