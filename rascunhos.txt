@@ -61,3 +61,7 @@ Display:
 block: empilha
 inline: alinha com o tamanho da fonte
 inline-block: alinha com tamanho de bloco
+
+Selecionar por IDs/Classes no CSS:
+ID: com o cerquilha (#)
+Classes (categoria de elementos, agrupavel): com ponto (.)
