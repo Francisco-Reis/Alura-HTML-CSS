@@ -65,3 +65,9 @@ inline-block: alinha com tamanho de bloco
 Selecionar por IDs/Classes no CSS:
 ID: com o cerquilha (#)
 Classes (categoria de elementos, agrupavel): com ponto (.)
+
+Ocupar toda a linha:
+display: block; (funciona com links "a")
+
+Classes: São acumulaveis
+Ex: <div class="classe1 classe2">
