@@ -1,0 +1,14 @@
+article {
+    padding-bottom: 30px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+.link_leia_mais {
+    font-size: 120%;
+    padding: 10px;
+    margin: 10px;
+    display: block;
+    text-align: center;
+    background-color: #B3C1C1;
+}

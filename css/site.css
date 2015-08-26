@@ -14,7 +14,7 @@ h1, h2 {
     color: #ffffff;
     background-color: #851444;
     padding: 25px;
-    border-bottom: 20px solid #000;
+    border-bottom: 10px solid #000;
     margin: 0;
     font-size: 60px;
     text-transform: uppercase;
@@ -22,27 +22,12 @@ h1, h2 {
 
 h2 {
    font-size: 30px;
+   clear: both;
 }
-
 p {
     text-align: justify;
     margin: 20px 0;
 }
-
-.citacoes {
-    background-color: #D9E5E3;
-    border: 10px solid #C2CCCA;
-    width: 250px;
-    box-sizing: border-box;
-    margin: 20px 40px;
-}
-
-.barra_lateral {
-    background-color: #3C1D3D;
-    color: #F2FFFC;
-    text-align: center;
-}
-
 .barra_lateral h1 {
    font-size: 30px;
    margin-bottom: 25px;
@@ -59,18 +44,13 @@ p {
     font-size: 0px;
 }
 .github {
-    background-image: url(github.png);
+    background-image: url(../img/github.png);
 }
 .twitter {
-    background-image: url(twitter.png);
+    background-image: url(../img/twitter.png);
 }
 .linkedin {
-    background-image: url(linkedin.png);
-}
-
-.rodape_pag {
-    background-color: #000000;
-    color: #f2fffc;
+    background-image: url(../img/linkedin.png);
 }
 
 main a {
@@ -81,10 +61,6 @@ main a {
     color: inherit;
     font-family: "Open Sans Condensed", sans-serif;
     text-transform: lowercase;
-}
-
-blockquote,aside,footer {
-    padding: 20px;
 }
 
 .corpo_central {
@@ -101,16 +77,44 @@ strong {
 em {
    font-style: italic;
 }
-article {
-    padding-bottom: 30px;
-    border: 1px solid #ccc;
-    margin-bottom: 20px;
+
+main {
+   /*float: left;*/
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 85%;
+   padding-bottom: 80px;
 }
-.link_leia_mais {
-    font-size: 120%;
-    padding: 10px;
-    margin: 10px;
-    display: block;
-    text-align: center;
-    background-color: #B3C1C1;
+.barra_lateral, .minha_foto {
+   float: right;
+   box-sizing: border-box;
+}
+.rodape_pag {
+   background-color: #000000;
+   color: #f2fffc;
+   padding: 0 20px;
+   clear: both;
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+}
+.barra_lateral {
+   background-color: #3C1D3D;
+   color: #F2FFFC;
+   text-align: center;
+   border-bottom: 10px solid #000;
+   border-left: 10px solid #000;
+   position: relative;
+   top: 310px;
+   width: 15%;
+   padding: 20px;
+}
+.minha_foto {
+   position: absolute;
+   top: 0;
+   right: 0;
+   border-bottom: 10px solid #000;
+   border-left: 10px solid #000;
 }

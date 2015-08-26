@@ -76,3 +76,14 @@ Float -> Faz os blocos ficarem flutuantes
 float: right
 float: left
 Clear -> Tag com clear nao sofre o efeito do float
+
+Width incluindo padding e margin:
+box-sizing: border-box;
+
+Site com HTML/CSS instantaneo: Dabblet
+http://dabblet.com/:
+
+Position:
+relative - desloca o bloco sem alterar o resto
+absolute - desloca o ploco e altera todo o resto da pagina (sai do fluxo)
+fixed - sempre visivel (sai do fluxo)
