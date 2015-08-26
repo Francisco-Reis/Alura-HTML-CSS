@@ -71,3 +71,8 @@ display: block; (funciona com links "a")
 
 Classes: São acumulaveis
 Ex: <div class="classe1 classe2">
+
+Float -> Faz os blocos ficarem flutuantes
+float: right
+float: left
+Clear -> Tag com clear nao sofre o efeito do float
