@@ -1,0 +1,13 @@
+.projetos {
+   border: 8px solid #000;
+   background-color: #FAFFFC;
+   padding: 16px;
+   margin: 16px;
+   float: left;
+   width: 45%;
+   box-sizing: border-box;
+}
+
+.projetos img {
+    width: 100%;
+}
